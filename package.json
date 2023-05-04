@@ -1,5 +1,5 @@
 {
-    "name": "@v9v/ts-react-telegram-login",
+    "name": "ts-react-telegram-login",
     "version": "1.1.1",
     "description": "TypeScript React Telegram login component",
     "main": "dist/TelegramLogin.js",
